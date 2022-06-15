@@ -1,4 +1,15 @@
 # Pre
 
-- 請用 VanillaJS 製作 TodoList
-  - https://www.figma.com/file/YknjZzAdgaj2whOsYffCo4/To-Do-List-(Community)?node-id=0%3A1
+- 1 todoList.html
+  2 countdown.html
+
+
+- VSCode extensions
+  - required
+    - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+    - https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+    - https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
+    - https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+  - optionals
+    - https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
+    - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
